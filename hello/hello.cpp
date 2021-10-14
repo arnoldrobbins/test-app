@@ -2,5 +2,5 @@
 
 void hello(void)
 {
-	printf("hello, world!\n");
+	printf("hello, world from the subrepo!\n");
 }
