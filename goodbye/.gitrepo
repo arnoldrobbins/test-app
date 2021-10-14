@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/arnoldrobbins/library-goodbye
+	branch = main
+	commit = 187e516e9fd3b428dea3b08f3dc4293a35a1c79e
+	parent = c4b9618ecdc7b176cd7b5fa3f1c483dc230e44d3
+	method = merge
+	cmdver = 0.4.3
