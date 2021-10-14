@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/arnoldrobbins/library-hello
 	branch = main
-	commit = 63cec2895debe72141bd416cf0f51a0914caecc7
-	parent = ea76425ca9eb69ef78f16c4efe865cd37613ed75
+	commit = b6ea8df48503fb5515e3478c1db639db1384d1cb
+	parent = a1594b1430716b0b451dedd182f04fe0b97081bc
 	method = merge
 	cmdver = 0.4.3
